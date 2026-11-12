@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #f3e6d8;
+
+}
+
+recipe-header{
+  text-align: center;
+  margin-bottom: 100%;
+}
+
+.container{
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 5%;
+    font-family: 'Outfit', sans-serif;
+    }
+
+class-container{
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 100%;
+  font-family: 'Outfit', sans-serif;
+}
+
+main {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0px, 20px;
+  font-family: 'Outfit', sans-serif;
+}  
+
+inner-container{
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Outfit', sans-serif;
+}
+
+
+nutrition-table{
+    pad: 2%;
+    max-width: 3px;    
+
+}
+
+
